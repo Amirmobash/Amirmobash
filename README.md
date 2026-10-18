@@ -1,192 +1,226 @@
-# Amir Mobasheraghdam (Amir Mobasher)
+# Amir Mobasheraghdam (Amir Mobasher) | Mechanical Engineer, Python Developer & 3D CAD Designer
 
-**Mechanical Engineer · Python Developer · Author · Embedded Systems & Industrial Automation**  
-**Cologne (Köln) / Bonn, North Rhine-Westphalia, Germany**
+**Mechanical Engineering · Python · Raspberry Pi · Machine Learning · CAD / STL / STEP · 3D Printing · Embedded Systems · IoT · Industrial Automation**  
+**Köln (Cologne) – Bonn region, North Rhine-Westphalia, Germany / Region Köln–Bonn, Nordrhein-Westfalen**
 
-**Maschinenbauingenieur · Python-Entwickler · Autor · Embedded Systems & Industrieautomatisierung**  
-**Region Köln/Bonn, Nordrhein-Westfalen, Deutschland**
+I am **Amir Mobasheraghdam**, also known online as **Amir Mobasher** (`Amirmobash`): a mechanical engineer, technical author and developer combining mechanical design with programming, electronics and prototyping. On this page you can find my **Python and Raspberry Pi projects, STL and STEP design files, 3D-printable models, books and industrial automation concepts**.
 
-[English](#english--about-me) · [Deutsch](#deutsch--über-mich) · [Projects / Projekte](#selected-engineering--software-projects--ausgewählte-projekte) · [Books / Bücher](#books--publications--bücher--veröffentlichungen) · [Contact / Kontakt](#contact--kontakt)
+Ich bin **Amir Mobasheraghdam**, online auch unter **Amir Mobasher** (`Amirmobash`) bekannt: Maschinenbauingenieur, Fachbuchautor und Entwickler. Ich verbinde **Maschinenbau, CAD-Konstruktion, Python-Programmierung, Elektronik, 3D-Druck und Automatisierung**. Hier finden Sie meine **GitHub-Projekte, STL-/STEP-Dateien, 3D-Modelle, Fachbücher und technischen Prototypen**.
 
----
-
-## English — About Me
-
-I'm **Amir Mobasheraghdam**, also known as **Amir Mobasher**, a mechanical engineer, Python developer and technical author based in the **Cologne–Bonn (Köln/Bonn) region of Germany**. My work connects mechanical engineering with software development, electronics, embedded systems, machine learning and practical automation.
-
-I enjoy building solutions that move beyond a concept: from **CAD design and 3D-printed prototypes** to **Python applications, Raspberry Pi systems, ESP8266 devices, sensor interfaces and industrial workflows**. I document selected projects on GitHub so other engineers, developers, students and makers can understand, adapt and extend the ideas.
-
-My interests include:
-
-- **Python development:** engineering utilities, desktop tools, data processing and hardware integration.
-- **Raspberry Pi and embedded electronics:** RFID, SPI, sensors, microcontrollers and connected devices.
-- **Machine learning and computer vision:** practical image-recognition projects, OpenCV and learning resources.
-- **CAD and mechanical engineering:** SolidWorks, Siemens NX, STEP/STL models and additive manufacturing.
-- **IoT and wireless communication:** ESP8266/NodeMCU, Arduino/C++, HTTP, JSON and OLED interfaces.
-- **Industrial automation:** shop-floor software concepts, tool management, human–machine interfaces and process improvement.
-- **Workflow automation:** n8n, APIs, notifications and information-processing pipelines.
-
-I am particularly interested in engineering projects that are **testable, maintainable, documented and useful in real-world settings**.
-
-## Deutsch — Über mich
-
-Ich bin **Amir Mobasheraghdam**, auch bekannt als **Amir Mobasher**, Maschinenbauingenieur, Python-Entwickler und Fachbuchautor aus der **Region Köln/Bonn in Nordrhein-Westfalen**. Ich verbinde klassisches Engineering mit Softwareentwicklung, Elektronik, Embedded Systems, Machine Learning und praxisorientierter Automatisierung.
-
-Mein Schwerpunkt liegt auf Lösungen, die sich nicht nur planen, sondern auch **konstruieren, programmieren, prototypisch umsetzen und testen** lassen. Dazu gehören CAD- und 3D-Druck-Projekte, Python-Anwendungen, Raspberry-Pi-Systeme, ESP8266-/NodeMCU-Projekte, Sensorik und industrielle Softwarekonzepte. Ausgewählte Entwicklungen dokumentiere ich hier auf GitHub.
-
-Meine Arbeitsschwerpunkte:
-
-- **Python-Programmierung:** technische Anwendungen, Desktop-Tools, Datenverarbeitung und Hardwareanbindung.
-- **Raspberry Pi und Embedded Electronics:** RFID, SPI-Kommunikation, Sensoren und Mikrocontroller.
-- **Machine Learning und Computer Vision:** Bilderkennung, OpenCV und verständliche Praxisprojekte.
-- **Maschinenbau und CAD:** SolidWorks, Siemens NX, STEP-/STL-Dateien und additive Fertigung.
-- **IoT und drahtlose Kommunikation:** ESP8266/NodeMCU, Arduino/C++, HTTP, JSON und OLED-Displays.
-- **Industrieautomatisierung:** Werkzeugverwaltung, Shopfloor-Anwendungen, Mensch-Maschine-Schnittstellen und Prozessoptimierung.
-- **Workflow-Automatisierung:** n8n, APIs, Benachrichtigungen und automatisierte Datenabläufe.
-
-Besonders wichtig sind mir **nachvollziehbare, dokumentierte und praktisch einsetzbare Lösungen** — von der technischen Idee bis zum funktionierenden Prototyp.
+**Quick links / Direktlinks:** [GitHub](https://github.com/Amirmobash) · [CAD & STL files](https://github.com/Amirmobash/Design-Files-Raspberry-Pi-5) · [Cults3D designs](https://cults3d.com/fr/utilisateurs/AmirMobasheraghdam/fichiers-3d) · [MyMiniFactory](https://www.myminifactory.com/users/AmirMobasher) · [LinkedIn](https://www.linkedin.com/in/amirmobasher/) · [LROX award](https://www.uni-bonn.de/en/news/ideas-with-passion-and-entrepreneurial-spirit) · [Books](#books--publications--bücher--veröffentlichungen)
 
 ---
 
-## Selected Engineering & Software Projects / Ausgewählte Projekte
+## English — About Amir Mobasher
 
-### 1. LROX — AI-Assisted Smart Helmet / KI-gestützter Fahrradhelm
+I develop practical systems at the intersection of **mechanical engineering and software**. My projects span **Python applications, Raspberry Pi and RFID systems, machine learning and image recognition, ESP8266 / NodeMCU devices, sensor integration, CAD and 3D printing, and industrial workflow automation**.
 
-**EN:** A road-safety concept involving an AI-assisted bicycle helmet designed to warn of potential hazards. The **LROX – Smart Helmet** team, including **Ladan Seddighi and Amir Mobasheraghdam**, received an award at the **University of Bonn Ideas Competition in December 2025**. This is an innovation concept and competition achievement, not a claim of a commercially deployed product.
+I use mechanical design and software together: a project might begin with a CAD model, continue with a **STEP or STL prototype**, and evolve into an electronic device or an application using **Python, C++, HTTP/JSON, SPI or I2C**. My focus is on solutions that can be built, tested and documented—not just conceptual presentations.
 
-**DE:** **LROX – Smart Helmet** ist ein Konzept für einen KI-gestützten Fahrradhelm, der vor möglichen Gefahren im Straßenverkehr warnen soll. **Ladan Seddighi und Amir Mobasheraghdam** wurden dafür beim **Ideenwettbewerb der Universität Bonn im Dezember 2025** ausgezeichnet.
+I publish selected code, CAD reference models and learning materials through GitHub and 3D-model platforms. I am interested in collaborating with engineers, students, developers and makers in **Cologne (Köln), Bonn, North Rhine-Westphalia and remotely**.
 
-**Reference / Quelle:** [University of Bonn — Ideas Competition 2025](https://www.aei.uni-bonn.de/de/fakultaet/aktuelles/pressearchiv/2025/ideen-mit-leidenschaft-und-unternehmergeist)
+## Deutsch — Über Amir Mobasher
 
-### 2. Receiver_ESP8266 — Laser Distance Data Receiver
+Ich entwickle praxisorientierte Lösungen an der Schnittstelle von **Maschinenbau und Softwareentwicklung**. Zu meinen Themen gehören **Python-Anwendungen, Raspberry Pi, RFID, Machine Learning, Bilderkennung, ESP8266 / NodeMCU, Sensorik, CAD-Konstruktion, STEP-/STL-Dateien, 3D-Druck und industrielle Prozessautomatisierung**.
 
-**EN:** An ESP8266/NodeMCU-based receiver that retrieves measurement data from a laser-distance sender over HTTP/JSON and displays the distance on a 1.3-inch I2C OLED screen.
+Für mich gehören Konstruktion, Programmierung und Prototypenbau zusammen: Aus einem CAD-Modell entsteht beispielsweise eine **STEP-/STL-Datei für die Konstruktion oder additive Fertigung**; daraus kann anschließend ein funktionierendes Gerät mit Mikrocontroller, Sensoren und Software werden. Mir sind **nachvollziehbare, testbare und gut dokumentierte Ergebnisse** wichtig.
 
-**DE:** Ein ESP8266-/NodeMCU-Empfänger, der Messwerte eines Laser-Distanzsenders per HTTP/JSON empfängt und auf einem 1,3-Zoll-I2C-OLED-Display anzeigt.
+Ich veröffentliche ausgewählte Projekte, CAD-Referenzmodelle und Lernmaterialien über GitHub und 3D-Modell-Plattformen. Ich freue mich über technischen Austausch in **Köln, Bonn, Nordrhein-Westfalen sowie online**.
 
-**Technologies:** ESP8266 · NodeMCU · C++ · HTTP/JSON · I2C · OLED  
+---
+
+## Engineering, Programming & CAD — Schwerpunkte
+
+| Field / Bereich | Tools, skills & topics / Technologien und Themen |
+| --- | --- |
+| **Software** | Python, C++, Arduino, JSON, HTTP APIs, desktop applications / Desktop-Anwendungen |
+| **Embedded & IoT** | Raspberry Pi, ESP8266, NodeMCU, RFID RC522, SPI, I2C, OLED, sensors / Sensorik |
+| **Machine Learning & Vision** | Python, OpenCV, image recognition / Bilderkennung, practical ML projects |
+| **Mechanical Engineering** | CAD, SolidWorks, Siemens NX, mechanical prototyping / Konstruktion und Prototypenbau |
+| **3D Printing & Design Files** | STL, STEP, STP, 3D-printable parts / 3D-druckbare Bauteile, FDM, SLA, SLS |
+| **Automation** | n8n, APIs, workflows, process optimization / Prozessoptimierung, industrial software / Industriesoftware |
+
+---
+
+## Featured Software & Hardware Projects — Software- und Hardwareprojekte
+
+### Receiver_ESP8266 — Laser Distance Receiver / Laser-Distanzempfänger
+
+**EN:** A NodeMCU / ESP8266 project that receives laser-distance measurements through HTTP/JSON and presents them on a 1.3-inch I2C OLED display. It connects embedded software, wireless communication and practical instrumentation.
+
+**DE:** Ein NodeMCU-/ESP8266-Projekt, das Laser-Distanzmesswerte per HTTP/JSON empfängt und auf einem 1,3-Zoll-I2C-OLED-Display ausgibt. Ein Beispiel für drahtlose Kommunikation und praxisorientierte Messtechnik.
+
+**Stack:** ESP8266 · NodeMCU · C++ · I2C OLED · HTTP/JSON  
 **Repository:** [Receiver_ESP8266](https://github.com/Amirmobash/Receiver_ESP8266)
 
-### 3. RFID-Kommunikation — Raspberry Pi & RC522
+### RFID-Kommunikation — Raspberry Pi & RC522
 
-**EN:** Python-based integration of an RFID RC522 module with Raspberry Pi using SPI communication. A practical starting point for reading RFID tags and exploring embedded identification systems.
+**EN:** RFID communication using Raspberry Pi, Python, an RC522 reader and the SPI interface; useful for exploring identification systems and embedded prototyping.
 
-**DE:** Python-basierte Anbindung eines RFID-RC522-Moduls an den Raspberry Pi über die SPI-Schnittstelle. Ein Praxisbeispiel für RFID-Kommunikation und eingebettete Identifikationssysteme.
+**DE:** RFID-Kommunikation mit Raspberry Pi, Python und dem RC522-Modul über SPI; ein praxisnaher Einstieg in Identifikationssysteme und Embedded-Prototypen.
 
-**Technologies:** Raspberry Pi · Python · RC522 · SPI · RFID  
+**Stack:** Raspberry Pi · Python · RFID RC522 · SPI  
 **Repository:** [RFID-Kommunikation](https://github.com/Amirmobash/RFID-Kommunikation)
 
-### 4. Werkzeugschrank — Industrial Tool Management
+### Werkzeugschrank — Industrial Tool Management / Werkzeugverwaltung
 
-**EN:** A software-oriented smart tool cabinet concept for industrial tool allocation, user identification, traceability and structured shop-floor processes. The project explores practical ideas for digital tool management and manufacturing workflows.
+**EN:** An industrial tool-management concept combining tool organization, digital identification, shop-floor software thinking and process optimization.
 
-**DE:** Ein Softwarekonzept für einen intelligenten Werkzeugschrank mit Benutzeridentifikation, Werkzeugzuordnung, Nachverfolgbarkeit und strukturierten Prozessen in der Fertigung. Der Schwerpunkt liegt auf digitalem Werkzeugmanagement und praxisnahen Industrieabläufen.
+**DE:** Ein Konzept für digitale Werkzeugverwaltung, das Werkzeugorganisation, Identifikation, industrielle Software und Prozessoptimierung verbindet.
 
-**Topics:** Industrial software · Smart manufacturing · Tool management · HMI · Traceability  
+**Topics:** Smart Manufacturing · Industrial Software · Tool Management · HMI  
 **Repository:** [Werkzeugschrank](https://github.com/Amirmobash/Werkzeugschrank)
 
-### 5. CableCarousel — Python Desktop Interface
+### CableCarousel — Python Desktop Interface / Kabelrollen-Verwaltung
 
-**EN:** A visual desktop interface developed with Python and CustomTkinter for selecting and managing cable reels or spools.
+**EN:** A Python/CustomTkinter desktop interface for interacting with cable-reel or cable-spool selection and management concepts.
 
-**DE:** Eine grafische Desktop-Anwendung mit Python und CustomTkinter zur übersichtlichen Auswahl und Verwaltung von Kabelrollen.
+**DE:** Eine grafische Python-/CustomTkinter-Oberfläche zur Auswahl und Verwaltung von Kabelrollen und Spulen.
 
-**Technologies:** Python · CustomTkinter · Desktop UI  
+**Stack:** Python · CustomTkinter · UI  
 **Repository:** [CableCarousel](https://github.com/Amirmobash/CableCarousel)
 
-### 6. Bidirectional Counter — Arduino & Infrared Sensors
+### Bidirectional Counter — Arduino & Sensors / Bidirektionaler Zähler
 
-**EN:** An Arduino-based counter that uses two E18-D80NK infrared sensors to detect movement direction and displays the count on an I2C LCD.
+**EN:** A sensor-based Arduino counter for distinguishing movement direction and displaying count information on an I2C LCD.
 
-**DE:** Ein Arduino-Zähler mit zwei E18-D80NK-Infrarotsensoren, der die Bewegungsrichtung erkennt und den Zählerstand auf einem I2C-LCD darstellt.
+**DE:** Ein Arduino-Zählprojekt zur Richtungserkennung mit Infrarotsensoren und zur Anzeige des Zählerstands auf einem I2C-LCD.
 
-**Technologies:** Arduino · C++ · E18-D80NK · I2C LCD · Sensor logic  
+**Stack:** Arduino · C++ · Infrared sensors · I2C LCD  
 **Repository:** [bidirectional-counter](https://github.com/Amirmobash/bidirectional-counter)
 
-### More Public Repositories / Weitere öffentliche Projekte
+### Other public repositories / Weitere öffentliche Repositories
 
-- [musterteil.de](https://github.com/Amirmobash/musterteil.de) — 3D-printing and prototyping concepts / 3D-Druck und Prototyping.
-- [mailsignal](https://github.com/Amirmobash/mailsignal) — software repository / Softwareprojekt.
-- [WebAppDesktopLauncher](https://github.com/Amirmobash/WebAppDesktopLauncher) — desktop launcher for web applications / Desktop-Starter für Webanwendungen.
-- [All public GitHub repositories / Alle öffentlichen Repositories](https://github.com/Amirmobash?tab=repositories)
+- [musterteil.de](https://github.com/Amirmobash/musterteil.de)
+- [mailsignal](https://github.com/Amirmobash/mailsignal)
+- [WebAppDesktopLauncher](https://github.com/Amirmobash/WebAppDesktopLauncher)
+- [All public repositories / Alle öffentlichen GitHub-Projekte](https://github.com/Amirmobash?tab=repositories)
 
 ---
 
-## Books & Publications / Bücher & Veröffentlichungen
+## CAD, STL, STEP & 3D Printing — Konstruktion und 3D-Druck
 
-### Mein Computer lernt von mir
+I share **3D CAD reference models, STL files for 3D printing, STEP/STP models and functional designs** for electronics, workshop organization, sensor integration, prototyping and everyday use. Some models are free and others may be paid; each platform listing specifies its own license and conditions.
 
-*Mein erstes Machine-Learning-Projekt mit dem Raspberry Pi*
+Ich veröffentliche **CAD-Referenzmodelle, STL-Dateien für den 3D-Druck, STEP-/STP-Modelle und funktionale Konstruktionen** für Elektronik, Werkstatt, Sensorintegration, Prototypen und Alltag. Je nach Plattform sind einzelne Modelle kostenlos oder kostenpflichtig; maßgeblich sind die Lizenzbedingungen der jeweiligen Modellseite.
 
-- **Author / Autor:** Amir Mobasheraghdam
-- **Publisher / Verlag:** BoD — Books on Demand
-- **Publication / Erscheinung:** January / Januar 2026
-- **ISBN-13:** `9783695757824`
-- **Language / Sprache:** German / Deutsch
+### Raspberry Pi 5 — CAD, STEP / STP and STL design files
 
-**EN:** A hands-on introduction to machine learning with Raspberry Pi. The book guides beginners through an image-recognition example and introduces the ideas behind training, testing and using a simple model.
+**EN:** A GitHub collection including a Raspberry Pi 5 `.stp` model, `RASPBERRY_PI_5.STL`, and design resources for a 10.1-inch HDMI display/holder. Intended as reference material for case design, enclosure integration, mounting concepts and mechanical prototyping.
 
-**DE:** Ein praxisnaher Einstieg in Machine Learning mit dem Raspberry Pi. Anhand eines Bilderkennungsprojekts werden Grundlagen wie Trainingsdaten, Modelltraining und Testen verständlich erklärt.
+**DE:** Ein GitHub-Repository mit Raspberry-Pi-5-`.stp`-Modell, `RASPBERRY_PI_5.STL` und Konstruktionsdaten für einen 10,1-Zoll-HDMI-Bildschirm mit Halter. Nützlich für Gehäusebau, Montagekonzepte und mechanische Prototypen.
 
-**Official source / Offizielle Quelle:** [BoD — Mein Computer lernt von mir](https://buchshop.bod.de/mein-computer-lernt-von-mir-amir-mobasheraghdam-9783695757824)  
-**Bibliographic record / Bibliografischer Nachweis:** [Deutsche Nationalbibliothek](https://katalog.dnb.de/EN/resource.html?id=1386107034&pr=0&sortA=bez&sortD=-dat&v=plist)
+**Files / Dateien:** STL · STEP/STP · CAD references  
+**Repository:** [Design-Files-Raspberry-Pi-5](https://github.com/Amirmobash/Design-Files-Raspberry-Pi-5)
+
+### LROX-STEP — Sensor CAD Reference Library / Sensor-CAD-Bibliothek
+
+**EN:** A collection of sensor and component CAD models, including STEP, STL and other design formats where provided. Intended for layout studies, sensor mounting, electronics enclosures and engineering prototypes.
+
+**DE:** Eine Sammlung von Sensor- und Komponentenmodellen in STEP, STL und weiteren Konstruktionsformaten (abhängig von der jeweiligen Datei). Geeignet für Einbauraumprüfungen, Sensorhalterungen und Elektronikgehäuse.
+
+**Repository:** [LROX-STEP](https://github.com/Amirmobash/LROX-STEP)
+
+### Published 3D models — Veröffentlichte STL-Modelle
+
+The following links lead directly to published designs or catalogs. / Die folgenden Links führen direkt zu veröffentlichten Modellen oder Modellübersichten.
+
+| 3D model / 3D-Modell | Use / Anwendung | Link / Quelle |
+| --- | --- | --- |
+| **Modular Spool Holder / Modularer Spulenhalter** | Wire, cable and filament organization / Draht-, Kabel- und Filamentorganisation | [Spulenhalter — Cults3D](https://cults3d.com/en/3d-model/gadget/spulenhalter-amirmobasheraghdam) |
+| **Cable Stripping Tool / Kabel-Abisolierwerkzeug** | 3D-printable workshop tool / Druckbares Werkstattwerkzeug | [Cable stripping tools — Cults3D](https://cults3d.com/en/3d-model/tool/cable-stripping-tools) |
+| **Cable Straightener / Kabel-Richtwerkzeug** | Straightening wires or cables / Kabelausrichtung | [Cable straightener — Cults3D](https://cults3d.com/en/3d-model/tool/cable-straightener) |
+| **Desk Cup-Holder Clamp / Tisch-Becherhalter** | Clip-on holder for a desk / Klemmbarer Schreibtischhalter | [Desk cup-holder clamp — Cults3D](https://cults3d.com/en/3d-model/tool/javanbiz) |
+| **Sponge Holder / Spülbecken-Organizer** | Two-piece household organizer / Zweiteiliger Haushaltsorganizer | [Sponge holder and soap dish — Cults3D](https://cults3d.com/en/3d-model/home/sponge-holder-and-soap-dispenser-kitchen-organiser) |
+| **Milwaukee-style Battery Case for Raspberry Pi 5** | Enclosure design for electronics / Elektronik-Gehäusemodell | [Battery case — Cults3D](https://cults3d.com/en/3d-model/tool/milwaukee-battery-case-for-raspberry-pi-5-bundle) |
+| **TFmini-S LiDAR / Arduino CAD model** | Sensor model in STL and STEP / Sensormodell in STL und STEP | [TFmini-S model — indexed Thingiverse mirror](https://harktech.co.uk/m/thingiverse/7359429-tfmini-s-f-r-arduino-projekt-step-stl-dateien) |
+| **Smartphone Holder / Handyhalter** | 3D-printable desktop organizer / Druckbarer Smartphone-Organizer | [iPhone 13 organizer — model index](https://3dgo.app/models/cults3d/iphone-13-organizer) |
+
+**More 3D designs / Weitere 3D-Modelle:**
+
+- [Cults3D — AmirMobasheraghdam, published 3D models / veröffentlichte 3D-Modelle](https://cults3d.com/fr/utilisateurs/AmirMobasheraghdam/fichiers-3d)
+- [MyMiniFactory — AmirMobasher](https://www.myminifactory.com/users/AmirMobasher)
+- [GitHub — Raspberry Pi 5 CAD, STL, STEP](https://github.com/Amirmobash/Design-Files-Raspberry-Pi-5)
+- [GitHub — LROX sensor STEP files](https://github.com/Amirmobash/LROX-STEP)
+
+**Engineering note / Technischer Hinweis:** Always check dimensions, fits, tolerances, material properties and safety requirements against physical hardware before assembly or manufacturing. / Maße, Passungen, Toleranzen, Materialeigenschaften und Sicherheitsanforderungen vor der Verwendung an der realen Hardware prüfen.
+
+---
+
+## LROX — AI-Assisted Smart Helmet | Universität Bonn Innovation Award
+
+**EN:** **LROX – Smart Helmet** is an AI-assisted bicycle-helmet concept intended to warn cyclists about potential road hazards. **Ladan Seddighi and Amir Mobasheraghdam** received the **Comma Soft AG award with €1,000 in prize money** at the **2025 University of Bonn Ideas Competition**. This recognition relates to the innovation concept; it does not imply a commercially certified or deployed helmet.
+
+**DE:** **LROX – Smart Helmet** ist ein Konzept für einen KI-gestützten Fahrradhelm, der Radfahrende vor potenziellen Gefahren warnen soll. **Ladan Seddighi und Amir Mobasheraghdam** erhielten beim **Ideenwettbewerb 2025 der Universität Bonn den mit 1.000 Euro dotierten Preis der Comma Soft AG**. Die Auszeichnung betrifft das Innovationskonzept und ist kein Nachweis einer zertifizierten Serienlösung.
+
+**Independent references / Externe Berichte:**
+
+- [University of Bonn — Ideas with passion and entrepreneurial spirit (English)](https://www.uni-bonn.de/en/news/ideas-with-passion-and-entrepreneurial-spirit)
+- [Universität Bonn — Ideen mit Leidenschaft und Unternehmergeist (Deutsch)](https://www.aei.uni-bonn.de/de/fakultaet/aktuelles/pressearchiv/2025/ideen-mit-leidenschaft-und-unternehmergeist)
+- [Campus Start-ups NRW — Ideenwettbewerb der Universität Bonn](https://www.campus-start-ups.nrw/aktuelles/news/2025/vier-innovative-ideen-gewinnen-beim-ideenwettbewerb-der-uni-bonn)
+- [University Foundation Bonn — 2025 Ideas Competition / Universitätsstiftung Bonn](https://www.stiftung.uni-bonn.de/de/neues/finale-des-ideenwettbewerbs-2025-bonner-universitaetsstiftung-zeichnet-robotik-projekt-fuer-nachhaltige-lebensmittelproduktion-aus)
+
+---
+
+## Books & Publications — Bücher & Veröffentlichungen
+
+### Mein Computer lernt von mir — Mein erstes Machine-Learning-Projekt mit dem Raspberry Pi
+
+**Author / Autor:** Amir Mobasheraghdam  
+**Publisher / Verlag:** BoD — Books on Demand  
+**Published / Erschienen:** 6 January / 6. Januar 2026  
+**ISBN-13:** `9783695757824`  
+**Language / Sprache:** German / Deutsch
+
+**EN:** An accessible, hands-on introduction to machine learning and image recognition with the Raspberry Pi, designed to help beginners understand training and testing an image-recognition model.
+
+**DE:** Ein verständlicher, praxisnaher Einstieg in Machine Learning und Bilderkennung mit dem Raspberry Pi, einschließlich Grundlagen zum Trainieren und Testen eines Bilderkennungsmodells.
+
+- [Official publisher / Verlagsseite — BoD](https://buchshop.bod.de/mein-computer-lernt-von-mir-amir-mobasheraghdam-9783695757824)
+- [Deutsche Nationalbibliothek — Bibliographic record / Katalogeintrag](https://katalog.dnb.de/EN/resource.html?id=1386107034&pr=0&sortA=bez&sortD=-dat&v=plist)
 
 ### Ergebnis-Automation für die Bundesliga mit n8n
 
-- **Authors / Autoren:** Amir Mobasheraghdam and / und Ladan Seddighi
-- **Publisher / Verlag:** BoD — Books on Demand
-- **Publication / Erscheinung:** January / Januar 2026
-- **ISBN-13:** `9783695724925`
-- **Language / Sprache:** German / Deutsch
+**Authors / Autoren:** Amir Mobasheraghdam and / und Ladan Seddighi  
+**Publisher / Verlag:** BoD — Books on Demand  
+**Published / Erschienen:** 30 January / 30. Januar 2026  
+**ISBN-13:** `9783695724925`  
+**Language / Sprache:** German / Deutsch
 
-**EN:** A step-by-step introduction to workflow automation using n8n, football data and automated notifications. It demonstrates how APIs and visual automation tools can be combined in a practical project.
+**EN:** A practical guide to building an n8n workflow that retrieves Bundesliga match data via OpenLigaDB and sends updates through Telegram.
 
-**DE:** Eine Schritt-für-Schritt-Anleitung zur Automatisierung mit n8n. Anhand von Bundesliga-Daten, APIs und automatischen Benachrichtigungen lernen Leserinnen und Leser praxisnah den Aufbau eigener Workflows.
+**DE:** Eine praktische Anleitung für einen n8n-Workflow, der Bundesliga-Daten über OpenLigaDB abruft, verarbeitet und Benachrichtigungen per Telegram versendet.
 
-**Official source / Offizielle Quelle:** [BoD — Ergebnis-Automation für die Bundesliga mit n8n](https://buchshop.bod.de/ergebnis-automation-fuer-die-bundesliga-mit-n8n-amir-mobasheraghdam-9783695724925)
+- [Official publisher / Verlagsseite — BoD](https://buchshop.bod.de/ergebnis-automation-fuer-die-bundesliga-mit-n8n-amir-mobasheraghdam-9783695724925)
 
 ---
 
-## Engineering Skills & Technologies / Technische Kompetenzen
+## How I Work — Meine Arbeitsweise
 
-| Area / Bereich | Tools & Technologies / Werkzeuge & Technologien |
-| --- | --- |
-| Programming / Programmierung | Python, C++, Arduino, JSON, HTTP APIs |
-| Embedded systems / Mikrocontroller | Raspberry Pi, ESP8266, NodeMCU, Arduino, RFID RC522, SPI, I2C |
-| AI & computer vision / KI & Bildverarbeitung | Machine Learning, OpenCV, image recognition / Bilderkennung |
-| CAD & manufacturing / Konstruktion & Fertigung | SolidWorks, Siemens NX, CAD, STEP, STL, 3D printing / 3D-Druck |
-| Automation / Automatisierung | n8n, API integrations, workflow automation, data processing |
-| Industrial engineering / Industrie | Tool management, HMI concepts, prototyping, process optimization |
+**English:** I enjoy the full development process: understanding a technical problem, designing parts and interfaces, building prototypes, writing code, integrating hardware, evaluating results and sharing documentation. My projects bring together **mechanical engineering, STL/STEP design, Python, Raspberry Pi, sensors, Machine Learning and automation**.
 
-## Engineering Approach / Meine Arbeitsweise
+**Deutsch:** Mich interessiert der gesamte Entwicklungsprozess: technische Anforderungen verstehen, Bauteile und Schnittstellen konstruieren, Prototypen aufbauen, Software entwickeln, Hardware integrieren, Ergebnisse prüfen und dokumentieren. Meine Projekte verbinden **Maschinenbau, STL-/STEP-Konstruktion, Python, Raspberry Pi, Sensorik, Machine Learning und Automatisierung**.
 
-**EN:** I combine mechanical engineering, electronics and software rather than treating them as separate disciplines. My typical workflow is to define the practical problem, create a design or prototype, implement the software, test the result and document what others need to reproduce it.
-
-**DE:** Ich betrachte Maschinenbau, Elektronik und Softwareentwicklung als miteinander verbundene Disziplinen. Mein typischer Ansatz: praktische Anforderungen verstehen, ein Konzept oder einen Prototyp entwickeln, Software integrieren, Ergebnisse testen und die Umsetzung nachvollziehbar dokumentieren.
-
-## Recognition & Independent References / Auszeichnungen & externe Nachweise
-
-- [University of Bonn / Universität Bonn — Ideas Competition 2025 / Ideenwettbewerb 2025](https://www.aei.uni-bonn.de/de/fakultaet/aktuelles/pressearchiv/2025/ideen-mit-leidenschaft-und-unternehmergeist) — LROX – Smart Helmet, award-winning team / ausgezeichnetes Team.
-- [BoD — Author listing: Mein Computer lernt von mir](https://buchshop.bod.de/mein-computer-lernt-von-mir-amir-mobasheraghdam-9783695757824)
-- [BoD — Author listing: Ergebnis-Automation für die Bundesliga mit n8n](https://buchshop.bod.de/ergebnis-automation-fuer-die-bundesliga-mit-n8n-amir-mobasheraghdam-9783695724925)
-- [Deutsche Nationalbibliothek — Bibliographic record](https://katalog.dnb.de/EN/resource.html?id=1386107034&pr=0&sortA=bez&sortD=-dat&v=plist)
-
-## Collaboration / Zusammenarbeit
-
-**EN:** I welcome technical exchange on Python, Raspberry Pi, embedded systems, machine learning, computer vision, CAD, additive manufacturing, industrial automation and open-source educational projects — particularly in the **Cologne/Bonn area and across Germany**, as well as remotely.
-
-**DE:** Ich freue mich über fachlichen Austausch zu Python, Raspberry Pi, Embedded Systems, Machine Learning, Bildverarbeitung, CAD, 3D-Druck, Industrieautomatisierung und Open-Source-Lernprojekten — insbesondere in der **Region Köln/Bonn**, deutschlandweit und remote.
-
-## Contact / Kontakt
+## Contact & Online Profiles — Kontakt & Profile
 
 - **Full name / Vollständiger Name:** Amir Mobasheraghdam
-- **Short name / Kurzname:** Amir Mobasher
-- **Location / Region:** Köln (Cologne) / Bonn, Nordrhein-Westfalen, Germany
-- **GitHub:** [@Amirmobash](https://github.com/Amirmobash)
-- **LinkedIn:** [Amir Mobasheraghdam](https://www.linkedin.com/in/amirmobasher/)
-- **Projects / Projekte:** [GitHub repositories](https://github.com/Amirmobash?tab=repositories)
+- **Also known as / Auch bekannt als:** Amir Mobasher
+- **GitHub username / GitHub-Name:** `Amirmobash`
+- **Region:** Cologne (Köln) / Bonn, North Rhine-Westphalia, Germany
+- **GitHub:** [github.com/Amirmobash](https://github.com/Amirmobash)
+- **GitHub portfolio repository:** [Amir_Mobasheraghdam](https://github.com/Amirmobash/Amir_Mobasheraghdam)
+- **LinkedIn:** [Amir Mobasheraghdam / Amir Mobasher](https://www.linkedin.com/in/amirmobasher/)
+- **3D designs / 3D-Modelle:** [Cults3D](https://cults3d.com/fr/utilisateurs/AmirMobasheraghdam/fichiers-3d) · [MyMiniFactory](https://www.myminifactory.com/users/AmirMobasher)
+- **Portfolio / Website:** [amirmobasher.ir](https://amirmobasher.ir) · [lrox.de](https://lrox.de)
+- **Search / Suche:** [Amir Mobasher STL — Google search](https://www.google.com/search?q=amir+mobasher+stl)
+
+## Collaboration — Zusammenarbeit
+
+**EN:** Open to engineering discussions and collaboration involving Python, Raspberry Pi, embedded systems, machine learning, computer vision, CAD, STL/STEP files, 3D printing, IoT, industrial software and automation in the Köln/Bonn region and remotely.
+
+**DE:** Offen für fachlichen Austausch und Zusammenarbeit rund um Python, Raspberry Pi, Embedded Systems, Machine Learning, Bildverarbeitung, CAD, STL-/STEP-Dateien, 3D-Druck, IoT, Industriesoftware und Automatisierung — in der Region Köln/Bonn und remote.
 
 ---
 
-*Engineering meets software: from a practical idea to a tested prototype.*  
-*Maschinenbau trifft Software: von der praktischen Idee zum getesteten Prototyp.*
+*Engineering meets software — from mechanical design and code to working prototypes.*  
+*Maschinenbau trifft Software — von der Konstruktion und Programmierung zum funktionierenden Prototyp.*
