@@ -210,7 +210,7 @@ SolidWorks · CAD · STEP · STL · 3D printing · FDM · SLA · SLS · mechanic
 - [BoD — Ergebnis-Automation für die Bundesliga mit n8n](https://buchshop.bod.de/ergebnis-automation-fuer-die-bundesliga-mit-n8n-amir-mobasheraghdam-9783695724925)
 
 ## Contact
-
+https://www.thingiverse.com/amir-mobasher/designs
 - **GitHub:** [github.com/Amirmobash](https://github.com/Amirmobash)
 - **LinkedIn:** use the same full name and professional positioning as this README
 
