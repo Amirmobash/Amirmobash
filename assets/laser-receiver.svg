@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="410" viewBox="0 0 800 410" role="img" aria-label="Laser Distance Receiver project illustration">
+<defs>
+<linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#0b1730"/><stop offset="1" stop-color="#153348"/></linearGradient>
+<radialGradient id="gl"><stop stop-color="#75e1db" stop-opacity=".24"/><stop offset="1" stop-color="#75e1db" stop-opacity="0"/></radialGradient>
+<pattern id="grid" width="31" height="31" patternUnits="userSpaceOnUse"><path d="M31 0H0V31" fill="none" stroke="#92b7d4" opacity=".085"/></pattern>
+</defs>
+<rect width="800" height="410" rx="20" fill="url(#bg)"/>
+<rect width="800" height="410" rx="20" fill="url(#grid)"/>
+<circle cx="590" cy="185" r="270" fill="url(#gl)"/>
+<rect x="38" y="34" width="105" height="27" rx="13.5" fill="#75e1db" opacity=".17"/>
+<text x="54" y="52" fill="#75e1db" font-size="13" font-family="Segoe UI,Arial,sans-serif" font-weight="700" letter-spacing="1">EMBEDDED</text>
+<g>
+<rect x="274" y="92" width="252" height="185" rx="24" fill="#091827" stroke="#64cfd6" stroke-width="3"/>
+<rect x="311" y="117" width="178" height="97" rx="11" fill="#06121d" stroke="#244b5b" stroke-width="4"/>
+<text x="332" y="144" fill="#70e4d5" font-family="Consolas,monospace" font-size="14">DISTANCE</text>
+<text x="328" y="184" fill="#f0fdff" font-family="Consolas,monospace" font-size="29" font-weight="700">12.345 m</text>
+<path d="M340 240 H459" stroke="#7994a6" stroke-width="3" stroke-linecap="round"/>
+<g fill="#72dbe3"><circle cx="341" cy="252" r="5"/><circle cx="365" cy="252" r="5"/><circle cx="388" cy="252" r="5"/></g>
+<path d="M191 168 H267 M533 168 H609" stroke="#73d8dc" stroke-width="3" stroke-dasharray="10 8"/>
+<g stroke="#73d8dc" fill="none" stroke-width="2"><path d="M170 150 Q189 169 170 188"/><path d="M630 150 Q610 169 630 188"/></g>
+<g fill="#9bbbd5" opacity=".6"><rect x="284" y="80" width="11" height="8" rx="1"/><rect x="505" y="80" width="11" height="8" rx="1"/></g></g>
+<path d="M38 325 H762" stroke="#a8c2da" opacity=".23"/>
+<text x="38" y="357" fill="#f2f7ff" font-size="27" font-family="Segoe UI,Arial,sans-serif" font-weight="700">Laser Distance Receiver</text>
+<text x="39" y="385" fill="#a8cbe1" font-size="16" font-family="Segoe UI,Arial,sans-serif">ESP8266 · OLED · HTTP/JSON</text>
+</svg>

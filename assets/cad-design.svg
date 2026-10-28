@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="410" viewBox="0 0 800 410" role="img" aria-label="Mechanical CAD Library project illustration">
+<defs>
+<linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#0b1730"/><stop offset="1" stop-color="#153348"/></linearGradient>
+<radialGradient id="gl"><stop stop-color="#8fb8ff" stop-opacity=".24"/><stop offset="1" stop-color="#8fb8ff" stop-opacity="0"/></radialGradient>
+<pattern id="grid" width="31" height="31" patternUnits="userSpaceOnUse"><path d="M31 0H0V31" fill="none" stroke="#92b7d4" opacity=".085"/></pattern>
+</defs>
+<rect width="800" height="410" rx="20" fill="url(#bg)"/>
+<rect width="800" height="410" rx="20" fill="url(#grid)"/>
+<circle cx="590" cy="185" r="270" fill="url(#gl)"/>
+<rect x="38" y="34" width="105" height="27" rx="13.5" fill="#8fb8ff" opacity=".17"/>
+<text x="54" y="52" fill="#8fb8ff" font-size="13" font-family="Segoe UI,Arial,sans-serif" font-weight="700" letter-spacing="1">CAD / 3D</text>
+<g>
+<g fill="#204765" stroke="#78cdda" stroke-width="2.8" stroke-linejoin="round"><path d="M399 87 L553 172 L405 262 L249 174 Z"/><path d="M249 174 L249 235 L405 307 L405 262 Z" fill="#163147"/><path d="M553 172 L553 235 L405 307 L405 262 Z" fill="#2c5971"/></g>
+<path d="M323 152 L406 107 L484 151 L402 197Z" fill="#143344" stroke="#8ad9e4" stroke-width="3"/>
+<g stroke="#78cdda" stroke-width="2.5" fill="none"><circle cx="320" cy="173" r="8"/><circle cx="475" cy="173" r="8"/><circle cx="407" cy="238" r="8"/></g>
+<g stroke="#a5beed" stroke-width="2" opacity=".75" fill="none"><path d="M231 159 V263 M570 156 V270 M230 263 H240 M559 270 H570 M250 293 H560"/><path d="M250 288 L250 299 M560 288 L560 299"/></g>
+<text x="383" y="285" fill="#c0dafa" font-size="13" font-family="Consolas,monospace">STEP / STL</text></g>
+<path d="M38 325 H762" stroke="#a8c2da" opacity=".23"/>
+<text x="38" y="357" fill="#f2f7ff" font-size="27" font-family="Segoe UI,Arial,sans-serif" font-weight="700">Mechanical CAD Library</text>
+<text x="39" y="385" fill="#a8cbe1" font-size="16" font-family="Segoe UI,Arial,sans-serif">Raspberry Pi 5 · STEP / STL · 3D Printing</text>
+</svg>

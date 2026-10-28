@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="295" viewBox="0 0 1200 295" role="img" aria-label="Amir Mobasheraghdam — Engineering meets software">
+<defs>
+ <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#0a1125"/><stop offset="0.57" stop-color="#142448"/><stop offset="1" stop-color="#0a2233"/></linearGradient>
+ <linearGradient id="accent" x1="0" y1="0" x2="1" y2="0"><stop stop-color="#58dce4"/><stop offset="1" stop-color="#81a4ff"/></linearGradient>
+ <radialGradient id="glow"><stop stop-color="#266b8f" stop-opacity=".6"/><stop offset="1" stop-color="#266b8f" stop-opacity="0"/></radialGradient>
+ <pattern id="dots" width="23" height="23" patternUnits="userSpaceOnUse"><circle cx="2" cy="2" r="1" fill="#bed5fa" opacity=".1"/></pattern>
+</defs>
+<rect width="1200" height="295" rx="22" fill="url(#bg)"/>
+<rect width="1200" height="295" rx="22" fill="url(#dots)"/>
+<circle cx="1025" cy="145" r="235" fill="url(#glow)"/>
+<rect x="47" y="56" width="5" height="180" rx="2.5" fill="url(#accent)"/>
+<text x="76" y="92" fill="#70d6e5" font-size="17" letter-spacing="4" font-family="Segoe UI,Inter,Arial,sans-serif" font-weight="700">ENGINEERING  /  CODE  /  INNOVATION</text>
+<text x="76" y="158" fill="#f3f8ff" font-size="48" font-family="Segoe UI,Inter,Arial,sans-serif" font-weight="700">Amir Mobasheraghdam</text>
+<text x="77" y="196" fill="#c4d5e8" font-size="21" font-family="Segoe UI,Inter,Arial,sans-serif">Mechanical Engineer · Software Developer · CAD Designer</text>
+<text x="77" y="238" fill="#95b4cb" font-size="15" font-family="Segoe UI,Inter,Arial,sans-serif" letter-spacing=".7">FROM CONCEPT AND CAD TO WORKING SOFTWARE + HARDWARE</text>
+<!-- isometric board with interlocking network -->
+<g stroke="#66d7df" stroke-width="2" fill="none" opacity=".85">
+  <path d="M950 75 L1040 27 L1130 75 L1040 126 Z"/>
+  <path d="M950 75 L950 171 L1040 220 L1040 126"/>
+  <path d="M1130 75 L1130 171 L1040 220"/>
+  <path d="M987 95 L1040 66 L1093 95 L1040 125 Z" stroke="#8eb4ff"/>
+  <path d="M987 95 L987 151 L1040 182 L1040 125" stroke="#8eb4ff"/>
+  <path d="M1093 95 L1093 151 L1040 182" stroke="#8eb4ff"/>
+  <path d="M911 142 H948 M1131 116 H1171 M1040 27 V9 M1040 220 V251"/>
+</g>
+<g fill="#77e2e3"><circle cx="911" cy="142" r="5"/><circle cx="1171" cy="116" r="5"/><circle cx="1040" cy="251" r="5"/><circle cx="1040" cy="9" r="4"/></g>
+</svg>

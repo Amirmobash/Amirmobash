@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="410" viewBox="0 0 800 410" role="img" aria-label="RFID Communication project illustration">
+<defs>
+<linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#0b1730"/><stop offset="1" stop-color="#153348"/></linearGradient>
+<radialGradient id="gl"><stop stop-color="#76d8ed" stop-opacity=".24"/><stop offset="1" stop-color="#76d8ed" stop-opacity="0"/></radialGradient>
+<pattern id="grid" width="31" height="31" patternUnits="userSpaceOnUse"><path d="M31 0H0V31" fill="none" stroke="#92b7d4" opacity=".085"/></pattern>
+</defs>
+<rect width="800" height="410" rx="20" fill="url(#bg)"/>
+<rect width="800" height="410" rx="20" fill="url(#grid)"/>
+<circle cx="590" cy="185" r="270" fill="url(#gl)"/>
+<rect x="38" y="34" width="105" height="27" rx="13.5" fill="#76d8ed" opacity=".17"/>
+<text x="54" y="52" fill="#76d8ed" font-size="13" font-family="Segoe UI,Arial,sans-serif" font-weight="700" letter-spacing="1">IOT</text>
+<g>
+<rect x="224" y="100" width="240" height="174" rx="16" fill="#162f48" stroke="#79cde2" stroke-width="3"/>
+<rect x="253" y="127" width="101" height="99" rx="9" fill="#0d1e2f" stroke="#5a8eab" stroke-width="2"/>
+<rect x="274" y="148" width="59" height="57" rx="8" fill="#254b68" stroke="#83d8e2" stroke-width="2"/>
+<path d="M374 138 H436 M374 155 H424 M374 174 H438 M374 192 H418 M374 210 H433" stroke="#70cbcf" stroke-width="3"/>
+<g fill="#d7b96f"><circle cx="256" cy="243" r="3"/><circle cx="270" cy="243" r="3"/><circle cx="284" cy="243" r="3"/><circle cx="298" cy="243" r="3"/><circle cx="312" cy="243" r="3"/></g>
+<g transform="rotate(12 565 170)"><rect x="499" y="106" width="151" height="102" rx="13" fill="#e4f0ff"/><rect x="516" y="124" width="36" height="31" rx="4" fill="#91bdd9"/><path d="M568 146 H625 M518 173 H626" stroke="#7396b0" stroke-width="6" stroke-linecap="round"/></g>
+<g fill="none" stroke="#86e0e3" stroke-width="3"><path d="M476 163 Q490 146 476 129"/><path d="M486 177 Q510 146 486 116"/><path d="M497 186 Q532 145 497 103"/></g></g>
+<path d="M38 325 H762" stroke="#a8c2da" opacity=".23"/>
+<text x="38" y="357" fill="#f2f7ff" font-size="27" font-family="Segoe UI,Arial,sans-serif" font-weight="700">RFID Communication</text>
+<text x="39" y="385" fill="#a8cbe1" font-size="16" font-family="Segoe UI,Arial,sans-serif">Raspberry Pi · RC522 · Python · SPI</text>
+</svg>

@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="410" viewBox="0 0 800 410" role="img" aria-label="Industrial Tool Cabinet project illustration">
+<defs>
+<linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#0b1730"/><stop offset="1" stop-color="#153348"/></linearGradient>
+<radialGradient id="gl"><stop stop-color="#75dadd" stop-opacity=".24"/><stop offset="1" stop-color="#75dadd" stop-opacity="0"/></radialGradient>
+<pattern id="grid" width="31" height="31" patternUnits="userSpaceOnUse"><path d="M31 0H0V31" fill="none" stroke="#92b7d4" opacity=".085"/></pattern>
+</defs>
+<rect width="800" height="410" rx="20" fill="url(#bg)"/>
+<rect width="800" height="410" rx="20" fill="url(#grid)"/>
+<circle cx="590" cy="185" r="270" fill="url(#gl)"/>
+<rect x="38" y="34" width="105" height="27" rx="13.5" fill="#75dadd" opacity=".17"/>
+<text x="54" y="52" fill="#75dadd" font-size="13" font-family="Segoe UI,Arial,sans-serif" font-weight="700" letter-spacing="1">AUTOMATION</text>
+<g>
+<rect x="273" y="92" width="278" height="210" rx="14" fill="#142d41" stroke="#80c7e9" stroke-width="3"/>
+<rect x="291" y="110" width="242" height="40" rx="5" fill="#335572"/>
+<text x="308" y="136" fill="#e5f5fd" font-size="15" font-family="Consolas,monospace">TOOL MANAGER</text>
+<rect x="290" y="163" width="113" height="120" rx="7" fill="#091827" stroke="#3c6c86"/>
+<rect x="414" y="163" width="119" height="53" rx="7" fill="#183b51" stroke="#3c6c86"/>
+<rect x="414" y="229" width="119" height="54" rx="7" fill="#183b51" stroke="#3c6c86"/>
+<path d="M313 190 H379 M313 207 H370 M313 224 H379 M313 241 H354" stroke="#68c7d2" stroke-width="5" stroke-linecap="round"/>
+<g fill="#79dbd5"><circle cx="433" cy="185" r="9"/><circle cx="433" cy="255" r="9"/></g>
+<path d="M460 186 H517 M460 255 H517" stroke="#6b9eba" stroke-width="6" stroke-linecap="round"/>
+<path d="M271 155 H222 V185 H191 M551 203 H613 V235 H648" stroke="#80c7e9" stroke-width="3" fill="none"/>
+<g fill="#80c7e9"><circle cx="191" cy="185" r="5"/><circle cx="648" cy="235" r="5"/></g></g>
+<path d="M38 325 H762" stroke="#a8c2da" opacity=".23"/>
+<text x="38" y="357" fill="#f2f7ff" font-size="27" font-family="Segoe UI,Arial,sans-serif" font-weight="700">Industrial Tool Cabinet</text>
+<text x="39" y="385" fill="#a8cbe1" font-size="16" font-family="Segoe UI,Arial,sans-serif">Tool management · HMI · Traceability</text>
+</svg>
