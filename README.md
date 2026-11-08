@@ -1,6 +1,6 @@
 
 <p align="center">
-  <a href="https://github.com/Amirmobash/Amir_Mobasheraghdam"><img src="https://raw.githubusercontent.com/Amirmobash/Amir_Mobasheraghdam/main/docs/images/amir-mobasheraghdam-engineering-cad-portfolio.svg.png" alt="Amir Mobasheraghdam — CAD design, mechanical engineering, electronics and industrial automation illustrated portfolio" width="100%" /></a>
+  <a href="https://github.com/Amirmobash/Amir_Mobasheraghdam"><img src="https://raw.githubusercontent.com/Amirmobash/Amir_Mobasheraghdam/main/docs/images/amir-mobasheraghdam-engineering-cad-portfolio.svg" alt="Amir Mobasheraghdam — CAD design, mechanical engineering, electronics and industrial automation illustrated portfolio" width="100%" /></a>
 </p>
 <p align="center"><sub>Amir Mobasheraghdam</sub></p>
 
