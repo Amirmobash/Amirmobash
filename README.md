@@ -1,12 +1,8 @@
 
-
-<!-- featured-project-image -->
-<p align="center"><img src="assets/hero.svg" alt="Amir Mobasheraghdam mechanical engineering and programming portfolio hero" width="960"/></p>
-<p align="center"><sub>Amir Mobasheraghdam</sub></p>
-
 <p align="center">
   <img src="assets/hero.svg" alt="Amir Mobasheraghdam — mechanical engineering, programming and prototyping" width="100%" />
 </p>
+<p align="center"><sub>Amir Mobasheraghdam</sub></p>
 
 <p align="center">
   <a href="https://amirmobasher.ir">Portfolio</a> ·
