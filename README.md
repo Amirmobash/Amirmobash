@@ -5,22 +5,19 @@
 <p align="center"><sub>Amir Mobasheraghdam</sub></p>
 
 <p align="center">
-  <a href="https://amirmobasher.ir">Portfolio</a> ·
+  <a href="https://github.com/Amirmobash">GitHub Projects</a> ·
   <a href="https://www.linkedin.com/in/amirmobasher/">LinkedIn</a> ·
-  <a href="https://cults3d.com/fr/utilisateurs/AmirMobasheraghdam/fichiers-3d">3D Designs</a> ·
-  <a href="https://www.myminifactory.com/users/AmirMobasher">MyMiniFactory</a> ·
-  <a href="PORTFOLIO_FULL.md">Full profile / Vollständiges Profil</a>
+  <a href="https://youtube.com/@amirmobasheraghdam">YouTube</a>
 </p>
 
-## Hello / Hallo! 👋
+## Hello! 👋
 
-**EN** · I'm **Amir Mobasheraghdam** (also **Amir Mobasher** / `Amirmobash`), a mechanical engineer, technical author and developer. I build practical prototypes that connect **CAD, Python, embedded hardware, machine learning and industrial automation**.
+I'm **Amir Mobasheraghdam**, a mechanical engineer, technical author and developer working across **CAD, Python, embedded systems, machine learning and industrial automation**. I share engineering prototypes, practical experiments, source code and technical documentation. This portfolio is **not a store or a printing service**.
 
-**DE** · Ich verbinde **Maschinenbau, CAD-Konstruktion, Programmierung und Elektronik** zu praxisnahen Prototypen — von der Idee bis zum testbaren System.
 
-📍 **Cologne–Bonn, Germany** · **Core tools / Technologien:** Python · C++ · Raspberry Pi · Arduino · ESP8266 · RFID · OpenCV · SolidWorks · Siemens NX · STEP / STL · n8n
+📍 **Cologne–Bonn, Germany** · **Core tools:** Python · C++ · Raspberry Pi · Arduino · ESP8266 · RFID · OpenCV · SolidWorks · Siemens NX · STEP / STL · n8n
 
-## Featured engineering projects / Ausgewählte Projekte
+## Featured engineering projects
 
 A visual selection of my **open-source CAD, embedded systems, mechanical design and industrial software projects**. Click any image to view its repository, source files and documentation.
 
@@ -100,12 +97,12 @@ Python and Raspberry Pi access-control client concept.
 </table>
 
 
-## More project images / Weitere Projekte
+## More project images
 
 The following illustrations are **project-specific concept visuals**, not photographs, verified STEP/STL exports, dimensioned engineering drawings or certification of hardware. Open a repository to view its actual source files and available models.
 
 <details>
-<summary><strong>Mechanical design, CAD & workshop / CAD & Werkstatt — 7 projects</strong></summary>
+<summary><strong>Mechanical design, CAD & workshop — 7 projects</strong></summary>
 
 <table>
 <tr>
@@ -115,7 +112,7 @@ The following illustrations are **project-specific concept visuals**, not photog
 </tr>
 <tr>
 <td width="33%" align="center" valign="top"><a href="https://github.com/Amirmobash/Laser_tape_reverse_engineering"><img src="https://raw.githubusercontent.com/Amirmobash/Laser_tape_reverse_engineering/main/docs/images/laser-tape-stm32-rangefinder-reverse-engineering.svg" alt="Laser Tape Reverse Engineering: Embedded laser rangefinder module reverse engineering. Concept project image." width="100%"/></a><br/><strong><a href="https://github.com/Amirmobash/Laser_tape_reverse_engineering">Laser Tape Reverse Engineering</a></strong></td>
-<td width="33%" align="center" valign="top"><a href="https://github.com/Amirmobash/musterteil.de"><img src="https://raw.githubusercontent.com/Amirmobash/musterteil.de/main/docs/images/musterteil-stl-3d-printing-instant-quote.svg" alt="Musterteil — 3D Printing Quote: STL upload and 3D-printing quotation workflow. Concept project image." width="100%"/></a><br/><strong><a href="https://github.com/Amirmobash/musterteil.de">Musterteil — 3D Printing Quote</a></strong></td>
+<td width="33%" align="center" valign="top"><a href="https://github.com/Amirmobash/musterteil.de"><img src="https://raw.githubusercontent.com/Amirmobash/musterteil.de/main/docs/images/musterteil-stl-3d-printing-instant-quote.svg" alt="Musterteil prototype: experimental STL upload and estimation software concept; no commercial service." width="100%"/></a><br/><strong><a href="https://github.com/Amirmobash/musterteil.de">Musterteil — STL Workflow Prototype</a></strong></td>
 <td width="33%" align="center" valign="top"><a href="https://github.com/Amirmobash/Gabelstapler-Kamera-Monitor"><img src="https://raw.githubusercontent.com/Amirmobash/Gabelstapler-Kamera-Monitor/main/docs/images/forklift-usb-camera-monitor-safety-view.svg" alt="Forklift Camera Monitor: USB camera monitor for fork positioning assistance. Concept project image." width="100%"/></a><br/><strong><a href="https://github.com/Amirmobash/Gabelstapler-Kamera-Monitor">Forklift Camera Monitor</a></strong></td>
 </tr>
 <tr>
@@ -128,7 +125,7 @@ The following illustrations are **project-specific concept visuals**, not photog
 </details>
 
 <details>
-<summary><strong>Embedded systems, control & displays / Elektronik — 10 projects</strong></summary>
+<summary><strong>Embedded systems, control & displays — 10 projects</strong></summary>
 
 <table>
 <tr>
@@ -156,7 +153,7 @@ The following illustrations are **project-specific concept visuals**, not photog
 </details>
 
 <details>
-<summary><strong>Sensors, IoT & testing / Sensorik — 7 projects</strong></summary>
+<summary><strong>Sensors, IoT & testing — 7 projects</strong></summary>
 
 <table>
 <tr>
@@ -179,7 +176,7 @@ The following illustrations are **project-specific concept visuals**, not photog
 </details>
 
 <details>
-<summary><strong>Software, computer vision & automation / Software — 8 projects</strong></summary>
+<summary><strong>Software, computer vision & automation — 8 projects</strong></summary>
 
 <table>
 <tr>
@@ -203,7 +200,7 @@ The following illustrations are **project-specific concept visuals**, not photog
 
 **Other repositories with original images and documentation:** [RFID-Kommunikation](https://github.com/Amirmobash/RFID-Kommunikation) · [Sub-D-Tester](https://github.com/Amirmobash/Sub-D-Tester) · [Automatischer Cat6-Netzwerkkabelglätter](https://github.com/Amirmobash/Automatischer-Cat6-Netzwerkkabelglatter) · [CheezCut](https://github.com/Amirmobash/cheezcut.com) · [MailSignal](https://github.com/Amirmobash/mailsignal) · [Stepcraft CAD files](https://github.com/Amirmobash/stepcraft-) · [SkyWatch Track](https://github.com/Amirmobash/SkyWatch-Track) · [All repositories](https://github.com/Amirmobash?tab=repositories)
 
-## Recognition & publications / Auszeichnung & Bücher
+## Recognition & publications
 
 🏆 **LROX Smart Helmet** — **Comma Soft AG award (€1,000)** at the **2025 University of Bonn Ideas Competition**, together with **Ladan Seddighi**. This award recognises the *innovation concept*, not a certified commercial product. [University announcement](https://www.uni-bonn.de/en/news/ideas-with-passion-and-entrepreneurial-spirit).
 
@@ -211,22 +208,12 @@ The following illustrations are **project-specific concept visuals**, not photog
 
 📗 **[Ergebnis-Automation für die Bundesliga mit n8n](https://buchshop.bod.de/ergebnis-automation-fuer-die-bundesliga-mit-n8n-amir-mobasheraghdam-9783695724925)** — n8n, OpenLigaDB and Telegram automation (with Ladan Seddighi; BoD, 2026; ISBN `9783695724925`).
 
-## CAD models & 3D printing / CAD-Modelle & 3D-Druck
+## CAD reference models and prototypes
 
-Explore the [Raspberry Pi 5 STEP/STL files](https://github.com/Amirmobash/Design-Files-Raspberry-Pi-5), [LROX sensor library](https://github.com/Amirmobash/LROX-STEP), [Cults3D models](https://cults3d.com/fr/utilisateurs/AmirMobasheraghdam/fichiers-3d) and [MyMiniFactory catalog](https://www.myminifactory.com/users/AmirMobasher). Models are engineering references; verify dimensions and tolerances before physical use. Individual model listings specify their licenses and prices.
-
-<details>
-<summary><strong>Deutsch — Kurzprofil & Zusammenarbeit</strong></summary>
-
-Ich entwickle **Python-Anwendungen**, **Raspberry-Pi-/Arduino-Prototypen**, **RFID- und Sensorsysteme** sowie **CAD-Modelle für 3D-Druck und industrielle Anwendungen**. Im Mittelpunkt stehen nachvollziehbare, testbare Lösungen an der Schnittstelle zwischen Software und Maschinenbau.
-
-Für fachlichen Austausch und gemeinsame Projekte bin ich im Raum **Köln/Bonn** und remote erreichbar. Projektdetails, Veröffentlichungen, Modellverzeichnisse und weiterführende Quellen stehen im **[vollständigen zweisprachigen Portfolio](PORTFOLIO_FULL.md)**.
-
-</details>
+Selected [Raspberry Pi 5 STEP/STL reference files](https://github.com/Amirmobash/Design-Files-Raspberry-Pi-5) and the [LROX sensor model library](https://github.com/Amirmobash/LROX-STEP) document engineering design work. Review individual repository documentation and licenses before use. These are technical portfolio references, not product listings or 3D-printing services.
 
 ---
 
-**Engineering meets software — from mechanical design and code to working prototypes.**  
-*Maschinenbau trifft Software — von der Konstruktion und Programmierung zum funktionierenden Prototyp.*
+**Engineering meets software — from mechanical design and code to documented prototypes.**
 
-[📄 **Full bilingual portfolio / Vollständiges Portfolio**](PORTFOLIO_FULL.md) · [🤝 **Connect on LinkedIn**](https://www.linkedin.com/in/amirmobasher/)
+[GitHub projects](https://github.com/Amirmobash?tab=repositories) · [LinkedIn](https://www.linkedin.com/in/amirmobasher/) · [YouTube](https://youtube.com/@amirmobasheraghdam)
